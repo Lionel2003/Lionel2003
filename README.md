@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OrionLyon#3092
+- 👋 Hi, I’m Lionel
 - 👀 I’m interested in game and software development.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on game projects.
